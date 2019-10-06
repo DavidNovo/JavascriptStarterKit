@@ -11,3 +11,12 @@ Second, start development server.
 
 Third type the following command on the comand line 'lt -- port <port used localy>'  This comand will return a url you can shar3e with others to allow them to see your work.
 
+To make URL more readable, use this flag '--subdomain=<name>'.
+
+## Automation
+We will be using NPM scripts. Are defined in the package.json file in the "scripts" section.
+
+
+
+
+
